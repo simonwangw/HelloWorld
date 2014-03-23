@@ -1,0 +1,1 @@
+<!DOCTYPE html><frameset rows="42,*" frameborder="NO"><frame src="showHead" noresize="noresize" border="0">	<frameset cols="275,*"  frameborder="NO">		<frame src="showMenu" noresize="noresize" border="0">		<frame src="index_main" name="view_frame" noresize="noresize" border="0">	</frameset></frameset></html>
